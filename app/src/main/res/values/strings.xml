@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="noteDetail">Enter the Note</string>
+    <string name="saveBtnTxt">save</string>
+    <string name="search_label">Search</string>
+    <string name="help_label">Help</string>
+    <string name="title_activity_min">MainActivity</string>
+    <string name="settings">Settings</string>
+</resources>
